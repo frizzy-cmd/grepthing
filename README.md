@@ -18,7 +18,7 @@
 
 ## How do I use it?
 
-- Click the Releases tab to use the tool! Or..
+- Click the [Releases](https://github.com/frizzy-cmd/grepthing/releases) tab to use the tool! Or..
 
 ---
 
