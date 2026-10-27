@@ -1,0 +1,16 @@
+[package]
+name = "grepthing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.28"
+ignore = "0.4"
+rfd = "0.14"
+image = "0.25"
+
+[build-dependencies]
+winres = "0.1"
+
+[profile.release]
+opt-level = 2
